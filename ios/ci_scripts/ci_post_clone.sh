@@ -2,9 +2,9 @@
 
 # Install Node, CocoaPods, and yarn using Homebrew.
 brew install cocoapods
-brew install node@18
+brew install node@22
 
-brew link node@18
+brew link node@22
 
 brew install yarn
 
